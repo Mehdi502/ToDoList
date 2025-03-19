@@ -16,7 +16,9 @@
 - `GET /tasks?listId={id}&sort={field}&filter={status}` → Récupérer et filtrer  
 - `POST /tasks` → Ajouter une tâche  
 - `PUT /tasks/{id}` → Modifier une tâche  
-- `DELETE /tasks/{id}` → Supprimer une tâche  
+- `DELETE /tasks/{id}` → Supprimer une tâche
+
+  Les tâches ont 3 états possibles: A faire, En cours, Terminée
 
 ### **Stack technique**  
 - Spring Boot (Web, Data JPA)  
