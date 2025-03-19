@@ -45,3 +45,6 @@
 #### 3️⃣ **Architecture des services**  
 - `ListService` : Gestion des listes (CRUD)  
 - `TaskService` : Gestion des tâches (CRUD + tri/filtrage)  
+
+
+Le projet doit comporter une documentation EN ANGLAIS FAITE AU FUR ET A MESURE DE L'AVANCEMENT (cela fera office de compte rendu)
